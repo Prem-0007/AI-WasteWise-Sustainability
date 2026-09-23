@@ -9,7 +9,7 @@ Built as the final project for the **1M1B AI for Sustainability Virtual Internsh
 ### 🔗 Project Links
 
 * **Live Demo:** https://ai-waste-wise-sustainability-peach.vercel.app/
-* **GitHub Repository:** [Add your GitHub repository link](https://github.com/Prem-0007/AI-WasteWise-Sustainability.git)
+* **GitHub Repository:** https://github.com/Prem-0007/AI-WasteWise-Sustainability.git
 
 ---
 
