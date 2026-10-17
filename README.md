@@ -481,6 +481,7 @@ Add your final demo video link here.
 This project is currently an educational/student prototype developed for the **1M1B AI for Sustainability Virtual Internship**.
 
 ---
+# edited
 
 ## 👨‍💻 Project
 
