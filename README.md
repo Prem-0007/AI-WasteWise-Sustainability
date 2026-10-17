@@ -481,7 +481,8 @@ Add your final demo video link here.
 This project is currently an educational/student prototype developed for the **1M1B AI for Sustainability Virtual Internship**.
 
 ---
-
+---
+ntg
 ## 👨‍💻 Project
 
 **AI WasteWise – Smart Waste Segregation & Sustainability Assistant**
